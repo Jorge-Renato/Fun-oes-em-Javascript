@@ -44,9 +44,5 @@
 
 // funcão com paramentros
 
-function fazerSuco(fruta) {
-    console.log("Fazer suco de " + fruta)
-}
-fazerSuco("morango")
-fazerSuco("abacaxi")
+
 

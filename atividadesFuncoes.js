@@ -8,3 +8,11 @@ function saudacao (nome){
     console.log("ola " + nome + "! Seja bem vindo (a)!")
 }
 saudacao("Jorge")
+
+//------------------------------------------------------------------
+
+function fazerSuco(fruta) {
+    console.log("Fazer suco de " + fruta)
+}
+fazerSuco("morango")
+fazerSuco("abacaxi")
