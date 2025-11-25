@@ -33,7 +33,20 @@
 // }
 // mostrarCurso();
 
-function mensagemMotivacional(){
-    console.log("Voce é capaz de aprender qualquer coisa!")
+// function mensagemMotivacional(){
+//     console.log("Voce é capaz de aprender qualquer coisa!")
+// }
+// mensagemMotivacional();
+
+// essa é uma funcao sem paramentros e sem retorno.
+
+//------------------------------------------------------------------------------------------------------------------
+
+// funcão com paramentros
+
+function fazerSuco(fruta) {
+    console.log("Fazer suco de " + fruta)
 }
-mensagemMotivacional();
+fazerSuco("morango")
+fazerSuco("abacaxi")
+
